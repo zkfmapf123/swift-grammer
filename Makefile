@@ -1,2 +1,2 @@
 run:
-	swift run main.swift
+	swift main.swift
