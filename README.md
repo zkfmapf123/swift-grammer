@@ -15,3 +15,4 @@
 - [11.Memory\*\*\*](./11_memory.swift)
 - [12.Clojure](./12_Clojure.swift)
 - [13.String](./13.String.swift)
+- [14.Array_Dict](./14.Array_Dict.swift)
